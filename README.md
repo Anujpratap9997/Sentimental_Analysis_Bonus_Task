@@ -17,12 +17,17 @@ The API is built using Flask, a Python web framework. The API accepts POST reque
 To use the API, you need to have the requests Python package installed. 
 
 Files
-model.py: contains the code for the RNN model
-api.py: contains the code for the Flask-based RESTful API that serves the model
-sentiment_model.h5: contains the trained RNN model weights
-templates/: a directory containing the HTML templates for the API's web pages
-IDMV_dataset.csv: Contain the dataset of IDMV movies reviews
-Requirements
+model.py: contains the code for the RNN model.
+
+api.py: contains the code for the Flask-based RESTful API that serves the model.
+
+sentiment_model.h5: contains the trained RNN model weights.
+
+templates/: a directory containing the HTML templates for the API's web pages.
+
+Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews.
+
+Requirements.
 Python 3.x
 TensorFlow 2.x
 Flask
