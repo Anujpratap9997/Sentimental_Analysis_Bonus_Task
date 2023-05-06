@@ -27,15 +27,7 @@ templates/: a directory containing the HTML templates for the API's web pages.
 
 Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews.
 
-Requirements.
-Python 3.x
-TensorFlow 2.x
-Flask
-Numpy
-Pandas
-Gensim
-These packages can be installed using pip.
-
+Requirement: It is contain the require module versions
 
 
 
